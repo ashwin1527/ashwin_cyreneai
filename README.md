@@ -126,7 +126,7 @@ Smart contract includes full coverage for:
 
 - **Pitch Deck**: [CyreneAI Overview](https://pitch.com/v/cyreneai-aptos-pitch-the-future-of-ai-agents-r9sis5)  
 - **Node Deployment Demo**: [Watch here](https://youtu.be/79nz7q6DedE)  
-- **Launchpad Walkthrough**: [See it in action](https://youtu.be/GTdvp1zh97s)  
+- **Launchpad Walkthrough**: [See it in action](https://youtu.be/HkogwvdWKFA)  
 - **Mobile App Preview**: [Short demo](https://youtube.com/shorts/L6DS-fskakw?feature=share)
 
 ---
